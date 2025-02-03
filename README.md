@@ -1,6 +1,15 @@
 # Hi, I'm Zahra! 👋
 
-I'm a **Frontend Developer** with a passion for building beautiful, responsive, and user-friendly web applications. I love turning ideas into reality using the latest web technologies. 🚀
+I'm a **Frontend Developer** passionate about building beautiful, responsive, and user-friendly web applications. I'm currently looking for my **first job opportunity** to join a team where I can contribute, learn, and grow as a developer. 🚀
+
+---
+
+## About Me 👩‍💻
+
+- 🌱 **I'm a Fast Learner**: I’m always eager to learn new technologies and improve my skills.
+- 🎯 **I Love Clean Code**: Writing clean, maintainable, and efficient code is my priority.
+- 🛠️ **I Build Things**: From small projects to full-fledged applications, I enjoy turning ideas into reality.
+- 🤝 **Team Player**: I thrive in collaborative environments and love working with others to solve problems.
 
 ---
 
@@ -45,10 +54,18 @@ A beautifully designed weather dashboard that provides real-time weather informa
 🔗 [View Repository](https://github.com/ehsanidev/weather-dashboard)
 
 ---
+## Why Hire Me? 🤔
+
+- **Passionate**: I genuinely love coding and building things that make a difference.
+- **Detail-Oriented**: I pay attention to the little things that make a big impact on user experience.
+- **Adaptable**: I’m quick to learn new tools and technologies to meet project requirements.
+- **Team Player**: I enjoy collaborating with others and believe in the power of teamwork.
+
+---
 
 ## Let’s Connect! 🤝
 
-Feel free to reach out to me for collaborations, questions, or just to say hi! 😄
+I’m excited to join a team where I can contribute and grow. If you’re looking for a motivated and enthusiastic frontend developer, let’s talk! 😄
 
 - 📧 **Email**: [ehsanizahra.dev@gmail.com](mailto:ehsanizahra.dev@gmail.com)
 - 💼 **LinkedIn**: [zahraehsani](https://www.linkedin.com/in/zahraehsani)
