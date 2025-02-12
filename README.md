@@ -2,6 +2,8 @@
 
 I'm a **Frontend Developer** passionate about building beautiful, responsive, and user-friendly web applications. I'm currently looking for my **first job opportunity** to join a team where I can contribute, learn, and grow as a developer. 🚀
 
+[![wakatime](https://wakatime.com/badge/user/ad263bf9-8dc5-43f9-9f9c-bd5abfe9930f.svg)](https://wakatime.com/@ad263bf9-8dc5-43f9-9f9c-bd5abfe9930f)
+
 ---
 
 ## About Me 👩‍💻
