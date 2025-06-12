@@ -6,3 +6,7 @@
 🧱 Frameworks: `React`, `Node.js` 
 ☁️ DevOps: `Docker`, `GitHub Actions`  
 💾 Databases: `MongoDB`
+
+## Latest Articles in Medium
+
+[bee-tech-redefining-bee-products-for-healthier-aging-through-cutting-edge-technology](https://medium.com/@ehsanizahra.dev/bee-tech-redefining-bee-products-for-healthier-aging-through-cutting-edge-technology-5821f13553c6)
