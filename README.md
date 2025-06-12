@@ -1,12 +1,6 @@
-## I'm currently learning:
-[Step by step guide to becoming a UX Designer in 2025 - See my progress in roadmap.sh](https://roadmap.sh/ux-design?s=67f904fa07425752ab28791e)
+[![roadmap.sh](https://roadmap.sh/card/wide/67f904fa07425752ab28791e?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops%2Cux-design)](https://roadmap.sh)
 
-## 🔧 Tech Stack:
-💻 Programming: `JavaScript`, `TypeScript` 
-🧱 Frameworks: `React`, `Node.js` 
-☁️ DevOps: `Docker`, `GitHub Actions`  
-💾 Databases: `MongoDB`
 
-## Latest Articles in Medium
+## My Latest Articles in Medium
 
 [bee-tech-redefining-bee-products-for-healthier-aging-through-cutting-edge-technology](https://medium.com/@ehsanizahra.dev/bee-tech-redefining-bee-products-for-healthier-aging-through-cutting-edge-technology-5821f13553c6)
