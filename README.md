@@ -1,5 +1,4 @@
-[![roadmap.sh](https://roadmap.sh/card/wide/67f904fa07425752ab28791e?variant=dark&roadmaps=frontend%2Cbackend%2Cdevops%2Cux-design)](https://roadmap.sh)
-
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67f904fa07425752ab28791e?variant=dark&roadmaps=ux-design%2Cfull-stack%2Cjavascript%2Ccomputer-science" alt="roadmap.sh"/></a>
 
 ## My Latest Articles in Medium
 
