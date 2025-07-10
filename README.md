@@ -3,3 +3,5 @@
 ## My Latest Articles in Medium
 
 [bee-tech-redefining-bee-products-for-healthier-aging-through-cutting-edge-technology](https://medium.com/@ehsanizahra.dev/bee-tech-redefining-bee-products-for-healthier-aging-through-cutting-edge-technology-5821f13553c6)
+
+[The Interconnection Between Programming and Technology Management](https://medium.com/@ehsanizahra.dev/the-interconnection-between-programming-and-technology-management-cff19a51e0bf)
