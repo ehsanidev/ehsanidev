@@ -4,6 +4,7 @@
 ## My Certificates
 [WEB DEVELOPMENT](https://api2.sololearn.com/v2/certificates/CC-HY1UYZ56/image/png?t=638820621593366340)
 [JAVASCRIPT INTERMEDIATE](https://api2.sololearn.com/v2/certificates/CC-QMJFANYI/image/png?t=638834101764203620)
+[PROMPT ENGİNEERİNG](https://api2.sololearn.com/v2/certificates/CC-CAEGCFZB/image/png?t=638838389911434910)
 
 
 ## My Latest Articles in Medium
