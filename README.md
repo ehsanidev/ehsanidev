@@ -1,3 +1,5 @@
+**Frontend Developer**&nbsp;&nbsp;![](cat-typing.gif)&nbsp;&nbsp;**
+
 ## My Certificates
 ![](https://api2.sololearn.com/v2/certificates/CC-HY1UYZ56/image/png?t=638820621593366340)
 ![](https://cursacertificates.s3.amazonaws.com/cert_04a72f837d31dc3de832f21ff79eaec6.png?time=1759804357)
