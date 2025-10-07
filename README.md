@@ -1,6 +1,11 @@
 # Frontend Developer <img src="cat-typing.gif" width="30"> UI/UX Enthusiast 🎨 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ### *Building thoughtful web experiences & standout dev portfolios. 3+ years crafting code that looks good and works well.*
 ---
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ehsanidev&theme=dark&show_icons=true&bg_color=1a1a1a&icon_color=a0ffff)
+
+---
+
 <table>
   <h1>Certificates</h1>
   <tr>
@@ -26,3 +31,5 @@
     </td>
   </tr>
 </table>
+
+---
