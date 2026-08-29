@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **React in WordPress, Three JS in React and Blender software**
 
-- 🤝 I’m looking to collaborate on [MahiYar Platform](https://github.com/ehsanidev/Mahi-Yar.git)
+- 🤝 I’m looking to collaborate on **Nextjs | Typescript | Nodejs | Docker/DevOps Projects**
 
-- 👨‍💻 All of my projects are available at [comming soon...](comming soon...)
+- 👨‍💻 All of my projects are available at *comming soon...*
 
 - 💬 Ask me about **Monolithic Architecture**
 
 - 📫 How to reach me **ehsanizahra.dev@gmail.com**
 
-- 📄 Know about my experiences [comming soon...](comming soon...)
+- 📄 Know about my experiences *comming soon...*
 
 - ⚡ Fun fact **I am fluent in Turkish, and even though I am a native Persian speaker, I am currently learning Italian through Turkish.**
 
