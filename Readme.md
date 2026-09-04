@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ehsanizahra.dev@gmail.com**
 
-- 📄 Know about my experiences *comming soon...*
+- 📄 Know about my experiences **[Download Resume](https://drive.google.com/file/d/10mGUkPN477lTfuH7WjYpVX0N7m3tJS-M/view?usp=drive_link)**
 
 - ⚡ Fun fact **I am fluent in Turkish, and even though I am a native Persian speaker, I am currently learning Italian through Turkish.**
 
