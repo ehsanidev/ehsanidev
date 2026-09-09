@@ -31,3 +31,4 @@
 
 [![roadmap.sh](https://roadmap.sh/card/wide/67f904fa07425752ab28791e?variant=dark&roadmaps=html)](https://roadmap.sh)
 [![roadmap.sh](https://roadmap.sh/card/wide/67f904fa07425752ab28791e?variant=dark&roadmaps=css)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/67f904fa07425752ab28791e?variant=dark&roadmaps=javascript)](https://roadmap.sh)
