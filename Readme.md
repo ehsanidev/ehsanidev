@@ -1,1 +1,1 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=ehsanidev&theme=onedark)](https://github.com/ehsanidev/github-profile-trophy)
+[![trophy](https://github-profile-repo.vercel.app/?username=ehsanidev&theme=dark)](https://github-profile-repo.vercel.app/?username=ehsanidev)
